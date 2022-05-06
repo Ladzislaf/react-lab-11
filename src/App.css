@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+}
+
+img {
+    width: 30px;
+    height: 30px;
+}
