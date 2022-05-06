@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-lab-11/static/css/main.81fd2534.css",
+    "main.js": "/react-lab-11/static/js/main.356558bb.js",
+    "static/media/text.svg": "/react-lab-11/static/media/text.ee9e5b2f932264598eca2a2990e812ab.svg",
+    "static/media/image.svg": "/react-lab-11/static/media/image.9441a4e6e9eff4a7b0d112944440019d.svg",
+    "static/media/arrow.svg": "/react-lab-11/static/media/arrow.c3ee4024f656e1d3c1043faac9201e5f.svg",
+    "index.html": "/react-lab-11/index.html",
+    "static/media/folder.svg": "/react-lab-11/static/media/folder.380cada5db288cbea19601157be785f1.svg",
+    "main.81fd2534.css.map": "/react-lab-11/static/css/main.81fd2534.css.map",
+    "main.356558bb.js.map": "/react-lab-11/static/js/main.356558bb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81fd2534.css",
+    "static/js/main.356558bb.js"
+  ]
+}
